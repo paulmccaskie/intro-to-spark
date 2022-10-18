@@ -1,7 +1,7 @@
 ﻿ProductId,Title,Platform,Year,Publisher,SoldPrice,TradeInPrice
-2,F-Zero,SFC,1990,Nintendo,£40,£20
-6,Super Mario World,SFC,1990,Nintendo,£30,£15
-7,Metal Slug,NG,1996,SNK/Nasca,"£3,000","£1,500"
-8,Ghouls N Ghosts,MD,1989,Sega,£50,£25
-9,Thunder Force IV,MD,1992,Technosoft,£70,£35
-10,Dracula X,PCE,1993,Konami,£150,£80
+2,F-Zero,SFC,1990,Nintendo,40,20
+6,Super Mario World,SFC,1990,Nintendo,30,15
+7,Metal Slug,NG,1996,SNK/Nasca,3000,1500
+8,Ghouls N Ghosts,MD,1989,Sega,50,25
+9,Thunder Force IV,MD,1992,Technosoft,70,35
+10,Dracula X,PCE,1993,Konami,150,80

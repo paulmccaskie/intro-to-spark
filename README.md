@@ -10,7 +10,7 @@ Instructions/link to winutils
 
 [Databricks Community Edition](https://docs.databricks.com/getting-started/community-edition.html)
 
-Setup Python
+Setup Python (Windows)
 
 ```
 
@@ -18,7 +18,7 @@ Python -m venv {environmentname}
 
 .\{environmentname}\Scripts\activate
 
-python -m pip install --upgrade pip'
+python -m pip install --upgrade pip
 
 pip install pyspark
 
