@@ -1,0 +1,23 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+**/build/
+*.dbmdl
+*.jfm
+.metals/
+metals.sbt
+metals/project/
+.idea/
+.vscode/
+.vs/
+.Debug/
+obj/
+build/
+dist/
+bin/
+junit/
+__pycache__/
+*.egg-info
+venv/
+samplenv/
