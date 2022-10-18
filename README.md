@@ -9,3 +9,19 @@ Instructions/link to winutils
 [Winutils](https://github.com/steveloughran/winutils)
 
 [Databricks Community Edition](https://docs.databricks.com/getting-started/community-edition.html)
+
+Setup Python
+
+```
+
+Python -m venv {environmentname} 
+
+.\{environmentname}\Scripts\activate
+
+python -m pip install --upgrade pip'
+
+pip install pyspark
+
+```
+
+To run the examples copy the code from CommandShall\SampleCommands.py
